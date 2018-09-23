@@ -2,7 +2,9 @@
 Desafio EXP para QAs
 
 Descrição: Formar duplas, escolher 1 dos desafios descritos abaixo e apresentar ao final de 1 hora o resultado das atividades realizadas.
+
 Observação: Cada dupla deve registrar um Projeto e um board Kanban em nesta conta GitHub para apresentar os cenários levantados e os possíveis bugs e/ou sugestões de melhoria identificados na execução do Desafio.
+
 
 Desafio 1:
 
