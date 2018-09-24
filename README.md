@@ -32,7 +32,7 @@ No site do https://www.sergiofranco.com.br validar a seguinte sequência de aç�
  
 Desafio 2:
 
-1 - Criar um plano de testes para a API de CEP dos Correios
+1 - Criar um plano de testes para a API de Busca de Exames do site Sergio Franco
 
 2 - Criar um projeto de automação versionado no Github (https://github.com/), utilizando Cucumber, HTTParty para automatizar cenários para as duas Features abaixo:
 
